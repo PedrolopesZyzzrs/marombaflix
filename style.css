@@ -1,0 +1,44 @@
+body{
+color: white;
+background: black;
+margin: 2px;
+border-bottom: solid 3px red;
+}
+header {
+    background-color: red;
+ border-bottom: solid 3px red;
+ padding: 20px;
+ padding-left: 32%;
+ font-size: 50px;
+ 
+ color: black;
+}
+
+section{
+    padding-bottom: 20px;
+    padding-top: 50px;
+    margin-left: 30px;
+    
+    border-bottom: solid 3px red ;
+}
+
+div {
+margin-bottom: 50px;
+
+}
+
+img{
+     height: 200px;
+
+}
+
+a {
+    padding:20px ;
+    margin-bottom: 20px;
+
+}
+h2{
+    font-size:30px;
+    color: red;
+
+}
